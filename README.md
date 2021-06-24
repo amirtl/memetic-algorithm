@@ -16,3 +16,5 @@ From the index "i" through "j" are all reversed.
 That is, he put only the "i" index of the first  in the "j" index og the second  and vice versa.
 - New generation selection: In each generation, N% of the top are selected.
 - End of algorithm: After en point load does not change the best fit stops.
+# note
+I put my analysis but it is in persia.
